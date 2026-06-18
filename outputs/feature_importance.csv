@@ -1,0 +1,33 @@
+feature,importance
+health_segment_Medium Risk,0.19070542
+contract_type_Monthly,0.10257816
+churn_risk_reason_Low Usage + High Support,0.045103308
+user_adoption_rate,0.0439823
+subscription_tier_Silver,0.040592473
+subscription_tier_Gold,0.033196393
+account_health_score,0.032704808
+company_size_Mid Market,0.027112877
+region_Latin America,0.025974827
+feature_usage_score,0.025380481
+churn_risk_reason_High Support Burden,0.024466744
+billing_month_number,0.024028393
+mrr,0.023575706
+tenure_months,0.023566142
+industry_Technology,0.023097843
+region_North America,0.02299236
+billing_quarter,0.022814121
+industry_Retail,0.022768885
+seats_purchased,0.02259409
+industry_Finance,0.022524867
+billing_year,0.022490911
+active_users,0.022423401
+region_Middle East & Africa,0.022301663
+support_tickets,0.020990415
+industry_Logistics,0.019769967
+industry_Professional Services,0.01971931
+industry_Healthcare,0.019206043
+region_Europe,0.01914559
+churn_risk_reason_Low Product Usage,0.017332083
+industry_Manufacturing,0.016860379
+company_size_Small Business,0.0
+health_segment_Low Risk,0.0
