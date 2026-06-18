@@ -1,0 +1,7 @@
+pandas
+numpy
+pandas-gbq
+scikit-learn
+xgboost
+matplotlib
+joblib
