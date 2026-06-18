@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+.DS_Store
+
+# Credentials - never upload
+*.json
+*.key
+*.pem
+credentials/
+secrets/
+
+# Optional model binaries
+models/*.pkl
+models/*.joblib
+
+# Power BI temp files
+*.tmp
