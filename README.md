@@ -77,7 +77,7 @@ saas-customer-churn-intelligence/
 │
 ├── dashboard/
 │   ├── saas_churn_powerbi_dashboard.pbix
-│   └── saas_churn_dashboard_preview.pdf
+│   └── saas_churn_powerbi_dashboard.pdf
 │
 ├── images/
 │   ├── executive_risk_movement.png
@@ -241,11 +241,11 @@ An XGBoost classifier was trained to predict customer churn using subscription, 
 
 | Metric    |  Score |
 | --------- | -----: |
-| Accuracy  | 65.27% |
-| Precision | 19.15% |
-| Recall    | 58.98% |
-| F1 Score  | 28.92% |
-| ROC-AUC   | 66.88% |
+| Accuracy  | 66.04% |
+| Precision | 19.64% |
+| Recall    | 59.36% |
+| F1 Score  | 29.51% |
+| ROC-AUC   | 67.08% |
 
 For churn use cases, recall is especially important because the business wants to identify as many potential churners as possible before they leave.
 
